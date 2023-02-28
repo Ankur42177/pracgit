@@ -1,1 +1,6 @@
 trying to learn git 
+made some changes here such that we can trace it back while we commit it in the project
+exit
+quit
+:q
+
